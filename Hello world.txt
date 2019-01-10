@@ -1,4 +1,4 @@
-Print ("Hello World!")
-Print ("Hello All")
+Print ("Hello World!");
+Print ("Hello All");
 end
 chek
