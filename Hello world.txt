@@ -1,3 +1,5 @@
 Print ("Hello World!")
 Print ("Hello All")
 Print ("Hello my dear friends!")
+Print ("Hello guys")
+Print ("Hello mr President")
